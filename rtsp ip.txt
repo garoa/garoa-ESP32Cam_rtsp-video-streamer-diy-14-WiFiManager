@@ -1,0 +1,7 @@
+ESP32CAM minha board 
+rtsp://192.168.88.241:8554/mjpeg/1
+
+esse não sei de qual é:
+rtsp://192.168.1.1:554/MJPG?W=1080&H=720&Q=50&BR=5000000/track1
+
+grant lock tables,alter,drop,select,insert,update,delete,create,index,alter routine,create routine, trigger,execute on zm.* to 'zmuser'@localhost identified by 'zmpass';
